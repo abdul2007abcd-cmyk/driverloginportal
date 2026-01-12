@@ -1,5 +1,0 @@
-{
-  "name": "Acting Driver Pro",
-  "description": "Internal driver-only tool for managing acting driver trips with OTP verification, cloud-synced timers, and automatic billing calculation.",
-  "requestFramePermissions": []
-}
